@@ -3,3 +3,9 @@
 (b) Default Method
 (c) Optional class
 (d) Stream API *
+
+2. Which Java 8 feature allows us to pass behavior as a parameter to a method?
+(a) Lambda expressions *
+(b) Optional class
+(c) Stream API 
+(d) Functional Interface
