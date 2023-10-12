@@ -1,1 +1,5 @@
-
+1. Which Java 8 feature allows us to filter a collection based on a predicate?
+(a) Lambda Expression
+(b) Default Method
+(c) Optional class
+(d) Stream API *
